@@ -22,6 +22,7 @@
         "zendframework/zend-view": "~2.5",
         "zendframework/zend-console": "~2.5",
         "zendframework/zend-http": "~2.5",
+        "zendframework/zend-i18n": "~2.5",
         "zendframework/zend-filter": "~2.5"
     },
     "require-dev": {
